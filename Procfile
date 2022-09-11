@@ -1,1 +1,1 @@
-web: gunicorn komerciotiagopesch
+web: gunicorn komerciotiagopesch.wsgi
